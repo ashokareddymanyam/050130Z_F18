@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<Project id="1" oid_count="32" defaultConfiguration="8">
+<Project id="1" oid_count="321" defaultConfiguration="8">
 	<props>
 		<Prop id="3" name="@SCADE:OCCBASEFILE">
 			<value>$(FORGES_OCC_FILE)</value>
